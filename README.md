@@ -1,6 +1,6 @@
 # Fighting Game
 
-This is a simple fighting game done with canvas, HTML and JavaScript.
+This is a simple fighting game done with canvas, HTML, CSS and JavaScript.
 
 ## Screenshot 
 
